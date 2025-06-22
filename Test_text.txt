@@ -1,3 +1,29 @@
 git clone : Tai code ve may tinh 
 
 git add . : them ta ca cac file 
+
+git status : Xem trang thai file da dc day len chua
+
+git commit -m "noi dung" : Tao noi dung commit 
+
+git push origin main : dùng để đẩy (push) các thay đổi từ nhánh main cục bộ của bạn lên kho lưu trữ từ xa (remote repository) có tên là origin
+
+
+
+* Tao 1 project tren Git :
+- Tao 1 GitHub repository(folder) - Noi chua code tren GitHub 
+- Clone project ve may tinh : " Git clone <link> 
+- Tao cac file code -> add tat ca cac file tren folder = git add. 
+- Kiem tra trang thai file = git status 
+- git commit  -m "Nd commit"
+- git push origin main 
+
+* Tao project local va day len GitHub 
+- Tao 1 GitHub repo
+- git init : Khoi tao folder git
+- Viet code 
+- git add : Them file 
+- git status : kiem tra lai trang thai file 
+- git commit -m: Tao noi dung commit 
+- git remote add origin https://github.com/duylnbg02/KhoaHocT3H-Dinh_Duc_Duy.git : Lien ket git voi may tinh 
+- git push origin master 
