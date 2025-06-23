@@ -27,3 +27,11 @@ git push origin main : dùng để đẩy (push) các thay đổi từ nhánh ma
 - git commit -m: Tao noi dung commit 
 - git remote add origin https://github.com/duylnbg02/KhoaHocT3H-Dinh_Duc_Duy.git : Lien ket git voi may tinh 
 - git push origin master 
+
+
+* Lam viec nhom 
+git pull : keo code moi nhat ve  <git bull = git fetch + git merge>
+git merge : 
+git check out -b "ten nhanh" : tao nhanh moi
+git brand: kiem tra xem da co nhanh chua
+git push origin <ten nhanh>
